@@ -7,17 +7,15 @@ Setup your mysql
 create a new database with [dbname]
 
 
+update in your feedbackapi/settings.py
+
+
 
 
 
 ![WhatsApp Image 2021-06-18 at 10 07 06 PM](https://user-images.githubusercontent.com/53989623/122592292-b91d5d00-d081-11eb-8290-20806e8580b4.jpeg)
 
 
-
-
-
-
-update in your feedbackapi/settings.py
 
 
 
