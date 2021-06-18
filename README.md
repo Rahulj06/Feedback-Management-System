@@ -1,4 +1,13 @@
 # Feedback-Management-System
+
+mysql (https://dev.mysql.com/downloads/installer/)
+
+Setup your mysql
+create a new database with [dbname]
+update in your feedbackapi/settings.py
+
+
+
 <img width="960" alt="2021-06-18" src="https://user-images.githubusercontent.com/53989623/122578327-6471e600-d071-11eb-8ba8-d07d8b554c25.png">
 <img width="960" alt="2021-06-18 (1)" src="https://user-images.githubusercontent.com/53989623/122578366-6e93e480-d071-11eb-9b6a-b7c168d35db1.png">
 <img width="960" alt="2021-06-18 (2)" src="https://user-images.githubusercontent.com/53989623/122578384-72c00200-d071-11eb-9c00-8122e806231c.png">
