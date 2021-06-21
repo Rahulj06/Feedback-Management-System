@@ -6,7 +6,7 @@ import "../Styles.css";
 const INITIAL_HEIGHT = 46;
 
 export default function CommentBox(props) {
-  //console.log(props.feed_id);
+  console.log(props.feed_id);
 
   const [isExpanded, setIsExpanded] = useState(false);
   const [commentValue, setCommentValue] = useState("");
@@ -82,7 +82,7 @@ export default function CommentBox(props) {
           </button>
         </div>
       </form>
-      <b>Comment:</b> {commentValue} {props.feed_id}
+      <b>Comment:</b> {commentValue}
     </div>
   );
 }
