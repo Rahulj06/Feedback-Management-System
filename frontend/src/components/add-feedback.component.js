@@ -100,7 +100,6 @@ export default class AddFeedback extends Component {
               ) : (
                 <div>
                   <div className="form-group">
-                  <label htmlFor="name">Name</label>
                   <input
                     type="text"
                     className="form-control"
