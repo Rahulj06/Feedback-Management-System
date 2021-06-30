@@ -17,7 +17,7 @@ export default class AddFeedback extends Component {
       email: "",
       feedback: "", 
       phoneNo: "",
-      tag: true,
+      tag: "",
 
       submitted: false
     };
